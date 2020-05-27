@@ -12,4 +12,4 @@ out the pub-priv address pair with your custom start!
 
 As the program runs, it'll update every now and then with progress checks. It'll also display the time taken at the end.
 
-Donations: 1FucKeRjhAzhidDxu8xss3sBRz3S3ayYfS      :)
+Donations: 1FucKeRjhAzhidDxu8xss3sBRz3S3ayYfS      
