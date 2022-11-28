@@ -1,7 +1,7 @@
 # TheVanityGenerator
 A Bitcoin vanity address generator
 
-Ok so this program isn't going to run fast by nature, let's get that out of the way first.
+This program isn't going to run fast just because of the nature of cryptography and priv-pub key generation, so let's get that out of the way first.
 
 This program creates a Bticoin address in the 1~ format with the starting characters of your choice.
 The longer the start you want, the longer the program will take to run.
